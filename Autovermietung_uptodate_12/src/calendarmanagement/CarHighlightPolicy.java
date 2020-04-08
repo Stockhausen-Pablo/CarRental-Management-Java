@@ -16,7 +16,7 @@ import contractmanagement.IContractDataStore;
  * Die Klasse "CarHighlightPolicy implementiert das Interface DateHighlightPolicy.
  * Wir erstellen uns unsere eigene zugeschnitten Policy für die Highlight-Evaluierung der Kalendertage.
  * 
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public class CarHighlightPolicy implements DateHighlightPolicy{

@@ -11,7 +11,7 @@ import java.util.Set;
 /**
  * Die Klasse "ContractDataStore" implementiert den "IContractDataStore" und dient als
  * Auftragsverwaltungsdatenbank mit verschiedenen funktionalen Eigenschaften.
- * @author stock
+ * @author Pablo Stockhausen
  *
  */
 public class ContractDataStore implements IContractDataStore {

@@ -5,7 +5,7 @@ import java.util.UUID;
 /**
  * Die Klasse "Car" ist unser Kundenelement, dass über verschiedene Attribute verfügt.
  * 
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public class Car {	

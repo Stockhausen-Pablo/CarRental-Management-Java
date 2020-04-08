@@ -23,7 +23,7 @@ import contractmanagement.IContractDataStore;
 /**
  * Die Klasse "ListCarPanel" erweitert die Klasse JPanel und verknüpft alle Elemente des Subsystems "Carmanagement".
  * Des Weiteren visualisiert sie die Tabelle mit allen Autos.
- * @author Gruppe12
+ * @author Pablo Stockhausen
  */
 public class ListCarPanel extends JPanel {	
 	

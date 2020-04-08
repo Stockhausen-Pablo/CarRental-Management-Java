@@ -15,7 +15,7 @@ import contractmanagement.IContractDataStore;
  * Die Klasse "ListCalendarFrame" erweitert die Klasse JFrame und bietet uns die Möglichkeit,
  * eine grafische Kalendardarstellung von der Verfügbarkeit bestimmter Fahrzeuge zu erhalten.
  * 
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public class ListCalendarFrame extends JFrame {

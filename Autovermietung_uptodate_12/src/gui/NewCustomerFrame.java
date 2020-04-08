@@ -18,7 +18,7 @@ import javax.swing.JTextField;
 /**
  * Die Klasse "NewCustomerFrame" erweitert die Klasse JFrame und bietet eine grafische Oberfl‰che zur 
  * Erstellung eines neuen Kunden. Auﬂerdem kann die Klasse bestimmte Listener benachrichtigen.
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public class NewCustomerFrame extends JFrame {

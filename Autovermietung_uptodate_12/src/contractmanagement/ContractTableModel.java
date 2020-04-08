@@ -5,7 +5,7 @@ import javax.swing.table.AbstractTableModel;
 /**
  * Die Klasse "ContractTableModel" dient nach dem Model-View-Control-Pattern, als Darstellungsschicht
  * unserer Auftragsdaten.
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public class ContractTableModel extends AbstractTableModel {

@@ -12,7 +12,7 @@ import java.util.Set;
  * Die Klasse "CarDataStore" implementiert den "ICarDataStore" und dient als
  * Fahrzeugverwaltungsdatenbank mit verschiedenen funktionalen Eigenschaften.
  * 
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public class CarDataStore implements ICarDataStore {

@@ -5,7 +5,7 @@ import java.util.UUID;
 
 /**
  * Die Klasse "Contract" ist unser Auftragselement, dass über verschiedene Attribute verfügt.
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public class Contract {

@@ -5,7 +5,7 @@ import java.util.UUID;
 /**
  * Die Klasse "Customer" ist unser Kundenelement, dass über verschiedene Attribute verfügt.
  *
- * @author Gruppe12
+ * @author Pablo Stockhausen
  */
 public class Customer {
 	

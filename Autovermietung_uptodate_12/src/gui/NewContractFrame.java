@@ -16,7 +16,7 @@ import com.github.lgooddatepicker.components.DatePicker;
 /**
  * Die Klasse "NewContractFrame" erweitert die Klasse JFrame und bietet eine grafische Oberfl‰che zur 
  * Erstellung eines neuen Auftrages. Auﬂerdem kann die Klasse bestimmte Listener benachrichtigen.
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public class NewContractFrame extends JFrame {

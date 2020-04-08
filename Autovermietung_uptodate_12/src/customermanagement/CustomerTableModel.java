@@ -7,7 +7,7 @@ import javax.swing.table.AbstractTableModel;
  * Die Klasse "CustomerTableModel" dient nach dem Model-View-Control-Pattern, als Darstellungsschicht
  * unserer Kundendaten.
  * 
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public class CustomerTableModel extends AbstractTableModel {

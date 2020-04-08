@@ -15,7 +15,7 @@ import javax.swing.JTextField;
 /**
  * Die Klasse "SearCarIDFrame" erweitert die Klasse JFrame und bietet eine grafische Oberfläche zum 
  * Verknüpfen der Auto-ID zum jeweiligen Fahrzeug, sodass dieses in der Tabelle hervorgehoben wird.
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public class SearchCarIDFrame extends JFrame {

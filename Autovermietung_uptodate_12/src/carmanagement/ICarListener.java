@@ -6,7 +6,7 @@ package carmanagement;
  * implementiert dieses interface mithilfe der Methode "addICarListener".
  * Wenn das ICar event auftritt, wird die spezifische implementierung der Methode
  * ausgeführt.
- *
+ * @author Pablo Stockhausen
  */
 public interface ICarListener {
 	

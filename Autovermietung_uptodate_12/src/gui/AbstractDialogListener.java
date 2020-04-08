@@ -2,7 +2,7 @@ package gui;
 /**
  * Die Abstrakte Klasse "AbstractDialogListener" ist unserer Listener, den wir in den einzelnen Panels zur
  * Abfrage der Varianten, wie ein "New Object"-Fenster geschlossen werden kann, nutzen.
- * @author Gruppe12
+ * @author Pablo Stockhausen
  * @version 1.0
  * @param <T> Ein Generic, dass uns ermöglicht das wir unterschiedliche Arten von Frames der Klasse überreichen können.
  */

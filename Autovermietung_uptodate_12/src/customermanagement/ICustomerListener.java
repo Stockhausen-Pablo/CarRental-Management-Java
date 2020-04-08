@@ -6,7 +6,7 @@ package customermanagement;
  * implementiert dieses interface mithilfe der Methode "addICustomerListener".
  * Wenn das ICustomer event auftritt, wird die spezifische implementierung der Methode
  * ausgeführt.
- *
+ *@author Pablo Stockhausen
  */
 public interface ICustomerListener {
 

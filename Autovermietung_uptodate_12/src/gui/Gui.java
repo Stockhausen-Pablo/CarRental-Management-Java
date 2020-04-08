@@ -21,7 +21,7 @@ import customermanagement.ICustomerDataStore;
 
 /**
  * Die Klasse GUI vereint alle Subsysteme und ermöglicht das Darstellen des User-Interfaces.
- * @author Gruppe 12
+ * @author Pablo Stockhausen
  * @version 1.0
  */
 public class Gui extends JFrame {

@@ -4,7 +4,7 @@ import java.util.Collection;
 
 /**
  * Das Interface "IContractDataStore" dient als Schnittstelle für die Auftragsdatenbank und liefert uns verschiedene Funktionen.
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public interface IContractDataStore {

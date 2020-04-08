@@ -21,7 +21,7 @@ import customermanagement.ICustomerDataStore;
  * Die Klasse "ListCustomerPanel" erweitert die Klasse JPanel und verknüpft alle
  * Elemente des Subsystems "customermanagement". Des Weiteren visualisiert sie
  * die Tabelle mit allen Kunden.
- * @author Gruppe12
+ * @author Pablo Stockhausen
  */
 public class ListCustomerPanel extends JPanel {
 

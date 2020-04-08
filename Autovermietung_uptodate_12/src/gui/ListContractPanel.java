@@ -31,7 +31,7 @@ import contractmanagement.IContractDataStore;
  * Die Klasse "ListContractPanel" erweitert die Klasse JPanel und verknüpft alle
  * Elemente des Subsystems "contractmanagement". Des Weiteren visualisiert sie
  * die Tabelle mit allen Aufträgen.
- * @author Gruppe 12
+ * @author Pablo Stockhausen
  */
 public class ListContractPanel extends JPanel {
 

@@ -19,7 +19,7 @@ import javax.swing.JTextField;
 /**
  * Die Klasse "NewCarFrame" erweitert die Klasse JFrame und bietet eine grafische Oberfl‰che zur 
  * Erstellung eines neuen Fahrzeuges. Auﬂerdem kann sie bestimmte Listener benachrichtigen.
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public class NewCarFrame extends JFrame {

@@ -5,7 +5,7 @@ import java.util.Collection;
 /**
  * Das Interface "ICarDataStore" dient als Schnittstelle für die Autodatenbank und liefert uns verschiedene Funktionen.
  * 
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public interface ICarDataStore {

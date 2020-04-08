@@ -7,7 +7,7 @@ package contractmanagement;
  * implementiert dieses interface mithilfe der Methode "addIContractListener".
  * Wenn das IContract event auftritt, wird die spezifische implementierung der Methode
  * ausgeführt.
- *
+ * @author Pablo Stockhausen
  */
 public interface IContractListener {
 

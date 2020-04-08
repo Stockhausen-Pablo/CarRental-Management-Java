@@ -7,7 +7,7 @@ import javax.swing.table.AbstractTableModel;
  * Die Klasse "CarTableModel" dient nach dem Model-View-Control-Pattern, als Darstellungsschicht
  * unserer Fahrzeugdaten.
  * 
- * @author Gruppe12
+ * @author Pablo Stockhausen
  *
  */
 public class CarTableModel extends AbstractTableModel {

@@ -5,7 +5,7 @@ import java.util.Collection;
 /**
  * Das Interface "ICustomerDataStore" dient als Schnittstelle für die Kundendatenbank und liefert uns verschiedene Funktionen.
  * 
- * @author stock
+ * @author Pablo Stockhausen
  *
  */
 public interface ICustomerDataStore {
